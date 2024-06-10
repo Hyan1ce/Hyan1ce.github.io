@@ -6,7 +6,7 @@
   <link href="http://hyan1ce.github.io/atom.xml" rel="self"/>
   
   <link href="http://hyan1ce.github.io/"/>
-  <updated>2024-06-10T16:54:24.433Z</updated>
+  <updated>2024-06-10T17:58:09.904Z</updated>
   <id>http://hyan1ce.github.io/</id>
   
   <author>
@@ -17,42 +17,48 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test</title>
-    <link href="http://hyan1ce.github.io/test/"/>
-    <id>http://hyan1ce.github.io/test/</id>
-    <published>2024-06-10T16:17:57.626Z</published>
-    <updated>2024-06-10T16:54:24.433Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Test-Markdown-File"><a href="#Test-Markdown-File" class="headerlink" title="Test Markdown File"></a>Test Markdown File</h1><p>Welcome to my test markdown file! This is an empty file located at <code>/D:/WEBSITE/source/_posts/test.md</code>.</p><p>Feel free to start writing your content here. You can use various markdown syntax to format your text, add headings, lists, links, images, and more.</p><p>Remember to save your changes once you’re done. Happy writing!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Test-Markdown-File&quot;&gt;&lt;a href=&quot;#Test-Markdown-File&quot; class=&quot;headerlink&quot; title=&quot;Test Markdown File&quot;&gt;&lt;/a&gt;Test Markdown File&lt;/h1&gt;&lt;p&gt;Welcom</summary>
-      
+    <title>文章界面测试</title>
+    <link href="http://hyan1ce.github.io/%E6%96%87%E7%AB%A0%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95/"/>
+    <id>http://hyan1ce.github.io/%E6%96%87%E7%AB%A0%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95/</id>
+    <published>2024-06-10T17:57:15.000Z</published>
+    <updated>2024-06-10T17:58:09.904Z</updated>
     
     
     
+    
+    <category term="文章" scheme="http://hyan1ce.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="文学" scheme="http://hyan1ce.github.io/categories/%E6%96%87%E7%AB%A0/%E6%96%87%E5%AD%A6/"/>
+    
+    
+    <category term="技术" scheme="http://hyan1ce.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://hyan1ce.github.io/hello-world/"/>
-    <id>http://hyan1ce.github.io/hello-world/</id>
-    <published>2024-06-10T11:36:53.992Z</published>
-    <updated>2024-06-10T16:54:29.003Z</updated>
+    <title>测试页面功能</title>
+    <link href="http://hyan1ce.github.io/pageTest/"/>
+    <id>http://hyan1ce.github.io/pageTest/</id>
+    <published>2024-06-10T17:20:04.000Z</published>
+    <updated>2024-06-10T17:53:57.576Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="测试页面功能"><a href="#测试页面功能" class="headerlink" title="测试页面功能"></a>测试页面功能</h1><hr><p>非常好的hexo文件管理博客：<a href="https://oakland.github.io/2016/05/02/hexo-%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84post/">hexo新建文章</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1 id=&quot;测试页面功能&quot;&gt;&lt;a href=&quot;#测试页面功能&quot; class=&quot;headerlink&quot; title=&quot;测试页面功能&quot;&gt;&lt;/a&gt;测试页面功能&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;非常好的hexo文件管理博客：&lt;a href=&quot;https://oakland.github.io</summary>
       
     
     
     
+    <category term="日记" scheme="http://hyan1ce.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    <category term="日常" scheme="http://hyan1ce.github.io/categories/%E6%97%A5%E8%AE%B0/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="life" scheme="http://hyan1ce.github.io/tags/life/"/>
     
   </entry>
   

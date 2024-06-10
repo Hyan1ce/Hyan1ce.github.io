@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 
-<html theme="dark" showBanner="true" hasBanner="true" > 
+<html theme="dark" showBanner="true" hasBanner="false" > 
 <link href="https://cdn.staticfile.org/font-awesome/6.4.2/css/fontawesome.min.css" rel="stylesheet">
 <link href="https://cdn.staticfile.org/font-awesome/6.4.2/css/brands.min.css" rel="stylesheet">
 <link href="https://cdn.staticfile.org/font-awesome/6.4.2/css/solid.min.css" rel="stylesheet">
@@ -50,13 +50,6 @@
 
 <body>
   
-  
-    
-<div id="banner" class="">
-  <img src="/images/web%E8%83%8C%E6%99%AF.jpg" itemprop="image">
-  <div id="banner-dim"></div>
-</div>
- 
    
   <div id="main-grid" class="  ">
     <div id="nav" class=""  >
@@ -78,9 +71,11 @@
     
       <a class="main-nav-link" href="/archives">Archives</a>
     
-      <a class="main-nav-link" href="/journal">日记</a>
+      <a class="main-nav-link" href="/categories/%E6%97%A5%E8%AE%B0/">日记</a>
     
-      <a class="main-nav-link" href="/articles">文章</a>
+      <a class="main-nav-link" href="/categories/%E6%96%87%E7%AB%A0/">文章</a>
+    
+      <a class="main-nav-link" href="/about">关于</a>
     
   </nav>
   <nav id="sub-nav">
@@ -105,9 +100,11 @@
     
       <a class="nav-dropdown-link" href="/archives">Archives</a>
     
-      <a class="nav-dropdown-link" href="/journal">日记</a>
+      <a class="nav-dropdown-link" href="/categories/%E6%97%A5%E8%AE%B0/">日记</a>
     
-      <a class="nav-dropdown-link" href="/articles">文章</a>
+      <a class="nav-dropdown-link" href="/categories/%E6%96%87%E7%AB%A0/">文章</a>
+    
+      <a class="nav-dropdown-link" href="/about">关于</a>
     
     
       <a class="nav-dropdown-link" href="/atom.xml" title="RSS 订阅">RSS</a>
@@ -154,9 +151,43 @@
       
 
 
+  <div class="widget-wrap">
+    <div class="widget">
+      <h3 class="widget-title">分类</h3>
+      <div class="category-box">
+            <a class="category-link" href="/categories/%E6%97%A5%E8%AE%B0/">
+                日记
+                <div class="category-count">1</div>
+            </a>
+        <div class="children"><div class="category-box">
+            <a class="category-link" href="/categories/%E6%97%A5%E8%AE%B0/%E6%97%A5%E5%B8%B8/">
+                日常
+                <div class="category-count">1</div>
+            </a>
+        </div></div>
+            <a class="category-link" href="/categories/%E6%96%87%E7%AB%A0/">
+                文章
+                <div class="category-count">1</div>
+            </a>
+        <div class="children"><div class="category-box">
+            <a class="category-link" href="/categories/%E6%96%87%E7%AB%A0/%E6%96%87%E5%AD%A6/">
+                文学
+                <div class="category-count">1</div>
+            </a>
+        </div></div></div>
+    </div>
+  </div>
+
 
     
       
+  <div class="widget-wrap">
+    <div class="widget">
+      <h3 class="widget-title">标签</h3>
+      <ul class="widget-tag-list" itemprop="keywords"><li class="widget-tag-list-item"><a class="widget-tag-list-link" href="/tags/life/" rel="tag">life</a></li><li class="widget-tag-list-item"><a class="widget-tag-list-link" href="/tags/%E6%8A%80%E6%9C%AF/" rel="tag">技术</a></li></ul>
+    </div>
+  </div>
+
 
     
   </div>
@@ -185,7 +216,7 @@
             <div class="article-count">2 篇文章</div>
         </div>
       
-      <a class="archive-article-link" href="/test/" title="Test">
+      <a class="archive-article-link" href="/%E6%96%87%E7%AB%A0%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95/" title="文章界面测试">
         <div class="date">06-11</div>
         <div class="line">
             <div class="dot"></div>
@@ -193,31 +224,31 @@
         <div class="title">
             <div class="title-inner">
                 
-                    Test
+                    文章界面测试
                 
             </div>
         </div>
         <div class="tags">
-            
+            #技术
         </div>
       </a>
     
       
       
-      <a class="archive-article-link" href="/hello-world/" title="Hello World">
-        <div class="date">06-10</div>
+      <a class="archive-article-link" href="/pageTest/" title="测试页面功能">
+        <div class="date">06-11</div>
         <div class="line">
             <div class="dot"></div>
         </div>
         <div class="title">
             <div class="title-inner">
                 
-                    Hello World
+                    测试页面功能
                 
             </div>
         </div>
         <div class="tags">
-            
+            #life
         </div>
       </a>
     
