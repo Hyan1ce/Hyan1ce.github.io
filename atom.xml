@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>IceHyan&#39;s Blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://hyan1ce.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-06-10T16:18:37.228Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://hyan1ce.github.io/"/>
+  <updated>2024-06-10T16:49:50.362Z</updated>
+  <id>http://hyan1ce.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2024/06/11/test/"/>
-    <id>http://example.com/2024/06/11/test/</id>
+    <title>Hello World</title>
+    <link href="http://hyan1ce.github.io/test/"/>
+    <id>http://hyan1ce.github.io/test/</id>
     <published>2024-06-10T16:17:57.626Z</published>
-    <updated>2024-06-10T16:18:37.228Z</updated>
+    <updated>2024-06-10T16:49:50.362Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Test-Markdown-File"><a href="#Test-Markdown-File" class="headerlink" title="Test Markdown File"></a>Test Markdown File</h1><p>Welcome to my test markdown file! This is an empty file located at <code>/D:/WEBSITE/source/_posts/test.md</code>.</p><p>Feel free to start writing your content here. You can use various markdown syntax to format your text, add headings, lists, links, images, and more.</p><p>Remember to save your changes once you’re done. Happy writing!</p>]]></content>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/06/10/hello-world/"/>
-    <id>http://example.com/2024/06/10/hello-world/</id>
+    <link href="http://hyan1ce.github.io/hello-world/"/>
+    <id>http://hyan1ce.github.io/hello-world/</id>
     <published>2024-06-10T11:36:53.992Z</published>
     <updated>2024-06-10T11:36:53.992Z</updated>
     
