@@ -6,7 +6,7 @@
   <link href="http://hyan1ce.github.io/atom.xml" rel="self"/>
   
   <link href="http://hyan1ce.github.io/"/>
-  <updated>2024-06-10T16:49:50.362Z</updated>
+  <updated>2024-06-10T16:51:28.000Z</updated>
   <id>http://hyan1ce.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>Test</title>
     <link href="http://hyan1ce.github.io/test/"/>
     <id>http://hyan1ce.github.io/test/</id>
     <published>2024-06-10T16:17:57.626Z</published>
-    <updated>2024-06-10T16:49:50.362Z</updated>
+    <updated>2024-06-10T16:51:28.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Test-Markdown-File"><a href="#Test-Markdown-File" class="headerlink" title="Test Markdown File"></a>Test Markdown File</h1><p>Welcome to my test markdown file! This is an empty file located at <code>/D:/WEBSITE/source/_posts/test.md</code>.</p><p>Feel free to start writing your content here. You can use various markdown syntax to format your text, add headings, lists, links, images, and more.</p><p>Remember to save your changes once you’re done. Happy writing!</p>]]></content>
     
