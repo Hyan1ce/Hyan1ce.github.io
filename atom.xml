@@ -6,7 +6,7 @@
   <link href="http://hyan1ce.github.io/atom.xml" rel="self"/>
   
   <link href="http://hyan1ce.github.io/"/>
-  <updated>2024-06-10T17:58:09.904Z</updated>
+  <updated>2024-06-11T08:11:00.747Z</updated>
   <id>http://hyan1ce.github.io/</id>
   
   <author>
@@ -17,38 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>文章界面测试</title>
-    <link href="http://hyan1ce.github.io/%E6%96%87%E7%AB%A0%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95/"/>
-    <id>http://hyan1ce.github.io/%E6%96%87%E7%AB%A0%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95/</id>
-    <published>2024-06-10T17:57:15.000Z</published>
-    <updated>2024-06-10T17:58:09.904Z</updated>
+    <title>Hello World!</title>
+    <link href="http://hyan1ce.github.io/HelloWorld/"/>
+    <id>http://hyan1ce.github.io/HelloWorld/</id>
+    <published>2024-06-11T07:58:40.000Z</published>
+    <updated>2024-06-11T08:11:00.747Z</updated>
     
-    
-    
-    
-    <category term="文章" scheme="http://hyan1ce.github.io/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    <category term="文学" scheme="http://hyan1ce.github.io/categories/%E6%96%87%E7%AB%A0/%E6%96%87%E5%AD%A6/"/>
-    
-    
-    <category term="技术" scheme="http://hyan1ce.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试页面功能</title>
-    <link href="http://hyan1ce.github.io/pageTest/"/>
-    <id>http://hyan1ce.github.io/pageTest/</id>
-    <published>2024-06-10T17:20:04.000Z</published>
-    <updated>2024-06-10T17:53:57.576Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="测试页面功能"><a href="#测试页面功能" class="headerlink" title="测试页面功能"></a>测试页面功能</h1><hr><p>非常好的hexo文件管理博客：<a href="https://oakland.github.io/2016/05/02/hexo-%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84post/">hexo新建文章</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Okay.</p><blockquote><p>本测试文章内容由Github Copilot自动生成</p></blockquote><p>This is my first blog post! I’m excited to share my thoughts and experiences with you all.</p><p>In this post, I want to talk about the importance of self-reflection and personal growth. It’s easy to get caught up in the hustle and bustle of everyday life, but taking the time to reflect on our actions and choices can lead to profound personal development.</p><p>One strategy that has helped me in my journey of self-reflection is journaling. By writing down my thoughts and feelings, I am able to gain clarity and insight into my own behavior. It’s a powerful tool for self-discovery and self-improvement.</p><p>Another aspect of personal growth that I want to touch on is the value of learning from others. We can gain so much wisdom and knowledge by listening to different perspectives and experiences. Whether it’s through books, podcasts, or conversations with friends, exposing ourselves to new ideas can broaden our horizons and help us become better versions of ourselves.</p><p>Lastly, I want to emphasize the importance of setting goals and working towards them. Having a clear vision of what we want to achieve gives us direction and purpose. It’s important to break down our goals into smaller, actionable steps and celebrate our progress along the way.</p><p>I hope this post inspires you to embark on your own journey of self-reflection and personal growth. Remember, it’s never too late to start working towards becoming the best version of yourself.</p><p>Stay tuned for more exciting content on my blog!</p><p><img src="/images/celeste.jpg" alt="celeste"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;测试页面功能&quot;&gt;&lt;a href=&quot;#测试页面功能&quot; class=&quot;headerlink&quot; title=&quot;测试页面功能&quot;&gt;&lt;/a&gt;测试页面功能&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;非常好的hexo文件管理博客：&lt;a href=&quot;https://oakland.github.io</summary>
+    <summary type="html">&lt;p&gt;Okay.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本测试文章内容由Github Copilot自动生成&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is my first blog post! I’m excited to share my thoughts an</summary>
       
     
     
@@ -58,7 +42,7 @@
     <category term="日常" scheme="http://hyan1ce.github.io/categories/%E6%97%A5%E8%AE%B0/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="life" scheme="http://hyan1ce.github.io/tags/life/"/>
+    <category term="日常" scheme="http://hyan1ce.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   

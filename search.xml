@@ -4,38 +4,11 @@
   
     
     <entry>
-      <title>文章界面测试</title>
-      <link href="/%E6%96%87%E7%AB%A0%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95/"/>
-      <url>/%E6%96%87%E7%AB%A0%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95/</url>
+      <title>Hello World!</title>
+      <link href="/HelloWorld/"/>
+      <url>/HelloWorld/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 文章 </category>
-          
-          <category> 文学 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 技术 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试页面功能</title>
-      <link href="/pageTest/"/>
-      <url>/pageTest/</url>
-      
-        <content type="html"><![CDATA[<h1 id="测试页面功能"><a href="#测试页面功能" class="headerlink" title="测试页面功能"></a>测试页面功能</h1><hr><p>非常好的hexo文件管理博客：<a href="https://oakland.github.io/2016/05/02/hexo-%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84post/">hexo新建文章</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Okay.</p><blockquote><p>本测试文章内容由Github Copilot自动生成</p></blockquote><p>This is my first blog post! I’m excited to share my thoughts and experiences with you all.</p><p>In this post, I want to talk about the importance of self-reflection and personal growth. It’s easy to get caught up in the hustle and bustle of everyday life, but taking the time to reflect on our actions and choices can lead to profound personal development.</p><p>One strategy that has helped me in my journey of self-reflection is journaling. By writing down my thoughts and feelings, I am able to gain clarity and insight into my own behavior. It’s a powerful tool for self-discovery and self-improvement.</p><p>Another aspect of personal growth that I want to touch on is the value of learning from others. We can gain so much wisdom and knowledge by listening to different perspectives and experiences. Whether it’s through books, podcasts, or conversations with friends, exposing ourselves to new ideas can broaden our horizons and help us become better versions of ourselves.</p><p>Lastly, I want to emphasize the importance of setting goals and working towards them. Having a clear vision of what we want to achieve gives us direction and purpose. It’s important to break down our goals into smaller, actionable steps and celebrate our progress along the way.</p><p>I hope this post inspires you to embark on your own journey of self-reflection and personal growth. Remember, it’s never too late to start working towards becoming the best version of yourself.</p><p>Stay tuned for more exciting content on my blog!</p><p><img src="/images/celeste.jpg" alt="celeste"></p>]]></content>
       
       
       <categories>
@@ -49,7 +22,7 @@
       
         <tags>
             
-            <tag> life </tag>
+            <tag> 日常 </tag>
             
         </tags>
       
